@@ -6,18 +6,18 @@
 
 ## 🎓 J'ai compris et je peux expliquer
 
-- la création d'une image docker ❌ / ✔️
-- l'éxécution d'un container ❌ / ✔️
-- l'orchestration de containers avec docker-compose ❌ / ✔️
+- la création d'une image docker ✔️
+- l'éxécution d'un container ✔️ 
+- l'orchestration de containers avec docker-compose ✔️ Docker compose relie nos containers notamment pour une application FS il relie les 3 containers du back, front et bdd.
 
 
 ## 💻 J'utilise
 
 ### Un exemple personnel commenté ❌ / ✔️
 
-### Utilisation dans un projet ❌ / ✔️
+### Utilisation dans un projet ✔️
 
-[lien github](...)
+git@github.com:LAZA-GLORIA/INTRO-DOCKER.git
 
 Description :
 
