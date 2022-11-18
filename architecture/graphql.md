@@ -6,8 +6,11 @@
 
 ## 🎓 J'ai compris et je peux expliquer
 
-- la différence entre REST et GraphQL ❌ / ✔️
-- les besoins auxquels répond GraphQL ❌ / ✔️
+- la différence entre REST et GraphQL ✔️
+    Une API Restfull (Representational State Transfer) présente plusieurs contraintes : (Découplage client-serveur, interface uniforme, absence d'état, mise en cache, architecture de système en couches)
+    GraphQl est un langage de requête d'API qui permet de traiter des requêtes plus complexes et fournit toutes les données en un seul point de terminaison.
+- les besoins auxquels répond GraphQL ✔️
+    GraphQL permet de faire évoluer plus simplement les API en fonction des évolutions del'application.
 - la définition d'un schéma
 - Query ❌ / ✔️
 - Mutation ❌ / ✔️
