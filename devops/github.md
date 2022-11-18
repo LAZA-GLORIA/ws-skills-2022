@@ -28,7 +28,8 @@ Description :
 
 Description :
 
-### Utilisation en environement professionnel ❌ / ✔️
+### Utilisation en environement professionnel  ✔️
+Projet (de l'ASP: Agence de Service et de Paiement) sur Gitlab,accès via un serveur
 
 Description :
 
@@ -42,6 +43,8 @@ Description :
 ## 🚧 Je franchis les obstacles
 
 ### Point de blocage ❌ / ✔️
+-Gitgraph
+-Git rebase
 
 Description:
 
