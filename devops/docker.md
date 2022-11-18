@@ -27,15 +27,15 @@ Description :
 
 Description :
 
-### Utilisation en environement professionnel ❌ / ✔️
+### Utilisation en environement professionnel ✔️
 
-Description :
+Description : Les environnements de dev et de prod sont sous docker
 
 ## 🌐 J'utilise des ressources
 
 ### Titre
 
-- lien
+- lien: https://openclassrooms.com/fr/courses/2035766-optimisez-votre-deploiement-en-creant-des-conteneurs-avec-docker/6211567-utilisez-des-images-grace-au-partage-sur-le-docker-hub
 - description
 
 ## 🚧 Je franchis les obstacles
@@ -54,5 +54,5 @@ Résolution :
 
 ## 📽️ J'en fais la démonstration
 
-- J'ai ecrit un [tutoriel](...) ❌ / ✔️
-- J'ai fait une [présentation](...) ❌ / ✔️
+- J'ai ecrit un [tutoriel](...) ❌ 
+- J'ai fait une [présentation](...) ❌
